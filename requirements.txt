@@ -1,0 +1,8 @@
+gunicorn
+FLASK==2.1.0
+Werkzeug==2.2.2
+numpy
+keras
+tensorflow
+opencv-python
+flask_cors
