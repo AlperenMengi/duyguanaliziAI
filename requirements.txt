@@ -6,3 +6,4 @@ keras
 tensorflow
 opencv-python
 flask_cors
+waitress
