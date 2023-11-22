@@ -1,9 +1,7 @@
-gunicorn
-FLASK==2.1.0
-Werkzeug==2.2.2
-numpy
-keras
-tensorflow
+streamlit
+flask==2.1.0
+flask-cors==4.0.0
+keras==2.10.0
+numpy==1.26.0
 opencv-python
-flask_cors
-waitress
+tensorflow==2.10.0
