@@ -4,4 +4,5 @@ flask-cors==4.0.0
 keras==2.10.0
 numpy==1.26.0
 opencv-python
+cv2
 tensorflow==2.10.0
